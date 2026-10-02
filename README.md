@@ -12,7 +12,7 @@ I will now list the different files at this directory and my comments on these f
     ![A bug](https://github.com/taylorkatie923/tfcb-homework01/blob/main/data/images/casent0172345_Rhytidoponera_metallica.jpg)
 In this dataset, there are two field seasons available. Information about these field seasons is given below:
 
-| 2013 Field Season | 2014 Field Season | 
-| -------- | -------- | 
-| 3 species | 5 Secies |
-| 20 entries | 25 entries |
+    | 2013 Field Season | 2014 Field Season | 
+    | -------- | -------- | 
+    | 3 species | 5 species |
+    | 20 entries | 25 entries |
